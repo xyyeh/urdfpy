@@ -1,5 +1,5 @@
 lxml
-networkx
+networkx==2.2
 numpy
 pillow
 pycollada
